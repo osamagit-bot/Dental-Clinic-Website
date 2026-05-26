@@ -36,3 +36,27 @@ id = "iK065fw_-SOq-M8kA5xex"
 uri = "file://artifacts/dental-clinic/src/assets/images/clinic-2.png"
 type = "image"
 title = "Clinic Interior 2"
+
+[[generated]]
+id = "7J0qm3e2eoL7fxuOV75LG"
+uri = "file://attached_assets/generated_images/ultra_wide_premium_dental_98a0.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "upeqCaxzhHJEDsZZdM4sm"
+uri = "file://attached_assets/generated_images/modern_dental_treatment_room_4404.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "_lT8yJ9X3MEzY28vzvqzq"
+uri = "file://attached_assets/generated_images/beautiful_woman_with_perfect_a8cd.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "JSgCiqMiLq6jf-0XidFga"
+uri = "file://attached_assets/generated_images/team_of_professional_dentists_b750.png"
+type = "image"
+title = "generated_image"
