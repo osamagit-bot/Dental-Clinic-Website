@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Home",
+    "doctors": "Doctors",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "The Future of Dentistry, Today.",
+    "subtitle": "Experience luxury dental care combined with cutting-edge technology.",
+    "bookBtn": "Book Appointment",
+    "watchBtn": "Watch Tour",
+    "stats": {
+      "patients": "Happy Patients",
+      "experience": "Years Experience",
+      "specialists": "Specialists",
+      "awards": "Awards"
+    }
+  },
+  "services": {
+    "heading": "Our Services",
+    "whitening": "Teeth Whitening",
+    "whiteningDesc": "Professional laser whitening for a brighter, confident smile.",
+    "implants": "Dental Implants",
+    "implantsDesc": "Permanent, natural-looking replacements for missing teeth.",
+    "ortho": "Orthodontics",
+    "orthoDesc": "Invisible aligners and modern braces for perfect alignment.",
+    "root": "Root Canal",
+    "rootDesc": "Painless endodontic therapy to save and restore infected teeth.",
+    "cosmetic": "Cosmetic Dentistry",
+    "cosmeticDesc": "Veneers and smile makeovers tailored to your facial aesthetics.",
+    "pediatric": "Pediatric Dentistry",
+    "pediatricDesc": "Gentle, fear-free dental care for children of all ages."
+  },
+  "doctors": {
+    "heading": "Meet Our Specialists",
+    "viewProfile": "View Profile"
+  },
+  "about": {
+    "heading": "About SmileCare",
+    "story": "Founded in 2010, SmileCare Clinic has redefined the dental experience. We believe that a visit to the dentist should feel like a premium wellness retreat, not a clinical chore.",
+    "mission": "Our Mission",
+    "missionDesc": "To provide exceptional dental care in an environment of unparalleled luxury and comfort.",
+    "vision": "Our Vision",
+    "visionDesc": "To become the global standard for futuristic, patient-centric dentistry."
+  },
+  "appointment": {
+    "heading": "Request an Appointment",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "service": "Select Service",
+    "date": "Preferred Date",
+    "message": "Additional Notes",
+    "submit": "Submit Request",
+    "submitting": "Submitting...",
+    "success": "Appointment requested successfully!"
+  },
+  "footer": {
+    "tagline": "The Future of Dentistry, Today.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "rights": "© 2024 SmileCare Clinic. All rights reserved."
+  }
+}

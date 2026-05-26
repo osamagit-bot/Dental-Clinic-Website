@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "NAUxOK0HNqr85QsAqXdjf"
+uri = "file://artifacts/dental-clinic/src/assets/images/doctor-1.png"
+type = "image"
+title = "Dr Sarah Mitchell"
+
+[[generated]]
+id = "fH2d2HYThVqsJEui_sGwh"
+uri = "file://artifacts/dental-clinic/src/assets/images/doctor-2.png"
+type = "image"
+title = "Dr James Chen"
+
+[[generated]]
+id = "vLi9T2IwoWqOuq6jFSBhY"
+uri = "file://artifacts/dental-clinic/src/assets/images/doctor-3.png"
+type = "image"
+title = "Dr Layla Hassan"
+
+[[generated]]
+id = "maLJq8HsY7hjzoLP197Oc"
+uri = "file://artifacts/dental-clinic/src/assets/images/doctor-4.png"
+type = "image"
+title = "Dr Michael Torres"
+
+[[generated]]
+id = "wbjiGSBTGE1VxNkon8XI3"
+uri = "file://artifacts/dental-clinic/src/assets/images/clinic-1.png"
+type = "image"
+title = "Clinic Interior 1"
+
+[[generated]]
+id = "iK065fw_-SOq-M8kA5xex"
+uri = "file://artifacts/dental-clinic/src/assets/images/clinic-2.png"
+type = "image"
+title = "Clinic Interior 2"
